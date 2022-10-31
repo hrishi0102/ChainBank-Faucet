@@ -1,3 +1,3 @@
-# Starter code for Faucet dApp tutorial
+# Ves Faucet Dapp
 
-Boilerplate code consisting of a new create-react-app project and some basic HTML and CSS.
+React application for requesting $VES tokens
